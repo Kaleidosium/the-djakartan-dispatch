@@ -1,3 +1,3 @@
 # the-djakartan-dispatch
 
-The site for *The Djakartan Dispatch*
+The site code for *The Djakartan Dispatch*
