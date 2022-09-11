@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Djakartan Dispatch</title>
   <subtitle></subtitle>
-  <link href="https://eleventyduo.netlify.app/feed.xml" rel="self"/>
-  <link href="https://eleventyduo.netlify.app/"/>
+  <link href="https://dispatch.jakarta.dj/feed.xml" rel="self"/>
+  <link href="https://dispatch.jakarta.dj/"/>
   
     <updated>2022-09-10T00:00:00Z</updated>
   
-  <id>https://eleventyduo.netlify.app</id>
+  <id>https://dispatch.jakarta.dj</id>
   <author>
     <name>Author Name</name>
     <email>author@site.com</email>
@@ -16,24 +16,24 @@
     
     <entry>
       <title>Introduction Post</title>
-      <link href="https://eleventyduo.netlify.app/the-djakartan-dispatch/posts/introduction-post/"/>
+      <link href="https://dispatch.jakarta.dj/posts/introduction-post/"/>
       <updated>2022-09-10T00:00:00Z</updated>
-      <id>https://eleventyduo.netlify.app/the-djakartan-dispatch/posts/introduction-post/</id>
+      <id>https://dispatch.jakarta.dj/posts/introduction-post/</id>
       <content type="html">
         <![CDATA[
       <blockquote>
 <p>Jakarta o' Jakarta, how I love to hate you.</p>
 </blockquote>
 <h2>Salam Kenal!</h2>
-<p><img src="https://svgshare.com/i/mXo.svg" alt="Image of Jakarta's Bundaran HI, Monas"></p>
-<p>Hello, my name is Dania Rifki, I'm a native of Jakarta, Indonesia, and this is where I will put all my writings about Jakarta on. <a href="https://youtu.be/fIZ9c585kf4">You may remember me from that one video about Jakarta's Public Transportation</a>, this website acts as a spiritual successor to that video. I was originally going to continue <em>Developing Jakarta</em> but it had a few hurdles.</p>
+<p><img src="https://i.imgur.com/7U3dFjv.png" alt="Image of Jakarta's Bundaran HI, Monas"></p>
+<p>Hello, my name is Dania Rifki, I'm a native of Jakarta, Indonesia, and this is where I will put all my writings about Jakarta on. <a href="https://youtu.be/fIZ9c585kf4">You may remember me from that one video about Jakarta's Public Transportation</a>, this website acts as a spiritual successor to that video. I was originally going to continue <em>Developing Jakarta</em>, but it had a few hurdles.</p>
 <p>First, I don't have much time nor money to produce a complete polished video like <em>Developing Jakarta</em> often. I was lucky that I was able to make it at all, but it just wasn't really sustainable if I do more of it. Plus, Text allows me to publish faster, make corrections easier and to reword sections if I saw fit.</p>
-<p>Second, I don't really enjoy being on camera, I'm a transgender woman, and being on camera is really stressful for me, I'm also not that good of a presenter compared to someone like Jay Foreman.</p>
-<p>Third, Text allows me to be more personal. You'll notice that I tried shoehorning jokes to the first episode of <em>Developing Jakarta</em>, while I never intended it to be popular, it was done so YouTube doesn't bury the video too much. I felt like my direction is controlled by YouTube implicitly, and I much rather have a more independent publication that I can count on.</p>
-<p>Fourth, Developing Jakarta was focused on city planning. I also want to talk about the city's history, politics, et cetera. However, YouTube's coverage of those genres are incredibly toxic and/or censoring.</p>
-<p>These, along with more smaller reasons are why I started <strong>The Djakartan Dispatch</strong>.</p>
+<p>Second, I don't really enjoy being on camera, I'm a transgender woman, and being on camera is really stressful for me; I'm also not that good of a presenter compared to someone like Jay Foreman.</p>
+<p>Third, Text allows me to be more personal. You'll notice that I tried shoehorning jokes to the first episode of <em>Developing Jakarta</em>, while I never intended it to be popular, it was done so YouTube doesn't bury the video too much. I felt like my direction is controlled by YouTube implicitly; I much rather have a more independent publication that I can count on.</p>
+<p>Fourth, Developing Jakarta was focused on city planning. I want to also talk about the city's history, politics, et cetera. However, YouTube's coverage of those genres are incredibly toxic and/or require censoring.</p>
+<p>These, along with more smaller reasons are why I started <strong>The Djakartan Dispatch</strong> as an independent website.</p>
 <h2>What will <em>The Dispatch</em> cover?</h2>
-<p>Mainly about topics related to the Jakarta Metropolitan Area (JaBoDeTaBek) and Indonesia. This includes, but not limited to: city planning, transportation discussions, housing projects, local history, and current events surrounding the city. I will also talk about Indonesia-wide topics when I feel there's something worth saying about, perhaps I will cover international topics (i.e. Developments in Singapore or San Francisco) at times.</p>
+<p>Mainly about topics related to the Jakarta Metropolitan Area (Jabodetabek) and Indonesia. This includes, but not limited to: city planning, transportation discussions, housing projects, local history, and current events surrounding the city. I will also talk about Indonesia-wide topics when I feel there's something worth saying about, perhaps I will cover international topics (i.e. Developments in Singapore or San Francisco) at times.</p>
 <p><em>The Dispatch</em> will not have a consistent schedule, I will only be writing articles when I feel there is a need to, it is also independent and has no funding, although I hope to start a tip jar in the near future (perhaps something like Ko-Fi).</p>
 <h2>In Closing</h2>
 <p>Thank you for taking the time to read the introduction of <strong>The Djakartan Dispatch</strong>, I hope you will continue to support us in the future, cheers!</p>
