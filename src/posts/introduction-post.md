@@ -10,7 +10,7 @@ permalink: posts/{{ title | slug }}/index.html
 
 ## Salam Kenal!
 
-![Image of Jakarta's Bundaran HI, Monas](https://i.imgur.com/iR6UM7s.png)
+![Image of Jakarta's Bundaran HI, Monas](https://i.imgur.com/RdRBX5P.png)
 
 Hello, my name is Dania Rifki, I'm a native of Jakarta, Indonesia, and this is where I will put all my writings about Jakarta on. [You may remember me from that one video about Jakarta's Public Transportation](https://youtu.be/fIZ9c585kf4), this website acts as a spiritual successor to that video. I was originally going to continue *Developing Jakarta*, but it had a few hurdles.
 
@@ -26,7 +26,7 @@ These, along with more smaller reasons are why I started **The Djakartan Dispatc
 
 ## What will *The Dispatch* cover?
 
-Mainly about topics related to the Jakarta Metropolitan Area (JaBoDeTaBek) and Indonesia. This includes, but not limited to: city planning, transportation discussions, housing projects, local history, and current events surrounding the city. I will also talk about Indonesia-wide topics when I feel there's something worth saying about, perhaps I will cover international topics (i.e. Developments in Singapore or San Francisco) at times.
+Mainly about topics related to the Jakarta Metropolitan Area (Jabodetabek) and Indonesia. This includes, but not limited to: city planning, transportation discussions, housing projects, local history, and current events surrounding the city. I will also talk about Indonesia-wide topics when I feel there's something worth saying about, perhaps I will cover international topics (i.e. Developments in Singapore or San Francisco) at times.
 
 *The Dispatch* will not have a consistent schedule, I will only be writing articles when I feel there is a need to, it is also independent and has no funding, although I hope to start a tip jar in the near future (perhaps something like Ko-Fi).
 
