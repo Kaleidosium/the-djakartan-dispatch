@@ -136,6 +136,7 @@ module.exports = function (eleventyConfig) {
       data: 'data',
       layouts: 'layouts'
     },
+    pathPrefix: "/the-jakartan-dispatch/",
     passthroughFileCopy: true,
     templateFormats: ['html', 'njk', 'md'],
     htmlTemplateEngine: 'njk',
