@@ -1,6 +1,6 @@
 ---
-title: Introduction
-date: '2022-9-10'
+title: Introduction Post
+date: '2022-09-10'
 tags: [post, meta]
 description: An introduction to The Djakartan Dispatch
 permalink: posts/{{ title | slug }}/index.html
