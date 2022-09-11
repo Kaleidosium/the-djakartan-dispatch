@@ -10,6 +10,8 @@ permalink: posts/{{ title | slug }}/index.html
 
 ## Salam Kenal!
 
+![Image of Jakarta's Bundaran HI, Monas](https://svgshare.com/i/mXo.svg)
+
 Hello, my name is Dania Rifki, I'm a native of Jakarta, Indonesia, and this is where I will put all my writings about Jakarta on. [You may remember me from that one video about Jakarta's Public Transportation](https://youtu.be/fIZ9c585kf4), this website acts as a spiritual successor to that video. I was originally going to continue *Developing Jakarta* but it had a few hurdles.
 
 First, I don't have much time nor money to produce a complete polished video like *Developing Jakarta* often. I was lucky that I was able to make it at all, but it just wasn't really sustainable if I do more of it. Plus, Text allows me to publish faster, make corrections easier and to reword sections if I saw fit.
