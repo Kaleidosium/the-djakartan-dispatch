@@ -9,6 +9,8 @@ permalink:  posts/{{ title | slug }}/index.html
 > Jakarta must be free from aversion and become a common city for the rich and poor regardless of race and ethnicity.
 > \- Ali Sadikin
 
+![Plotted image of Ali Sadikin](https://i.imgur.com/MiPL8Z1.png)
+
 The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.
 
 Ali Sadikin is one person not commonly known or talked about outside of Indonesia. He was the Forth Governor of Jakarta during the Suharto Dictatorship, and he's widely known here as probably the most influential governor in the History of Jakarta. Ali had positions in power before becoming Governor, but I want to focus on his governorship, as that's what most people know him for.
