@@ -9,7 +9,7 @@ permalink:  posts/{{ title | slug }}/index.html
 > Jakarta must be free from aversion and become a common city for the rich and poor regardless of race and ethnicity.
 > \- Ali Sadikin
 
-![Plotted image of Ali Sadikin](https://i.imgur.com/MiPL8Z1.png)
+![Plotted image of Ali Sadikin](https://i.imgur.com/fLrNjcR.png)
 
 The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.
 
