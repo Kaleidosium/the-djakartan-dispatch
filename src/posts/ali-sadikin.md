@@ -13,7 +13,7 @@ permalink:  posts/{{ title | slug }}/index.html
 
 The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.
 
-Ali Sadikin is one person not commonly known or talked about outside of Indonesia. He was the Forth Governor of Jakarta during the Suharto Dictatorship, and he's widely known here as probably the most influential governor in the History of Jakarta. Ali had positions in power before becoming Governor, but I want to focus on his governorship, as that's what most people know him for.
+Ali Sadikin is one person not commonly known or talked about outside of Indonesia. He was the Fourth Governor of Jakarta during the Suharto Dictatorship, and he's widely known here as probably the most influential governor in the History of Jakarta. Ali had positions in power before becoming Governor, but I want to focus on his governorship, as that's what most people know him for.
 
 If you want to know one thing about Ali, He was ruthlessly pragmatic. Legalizing gambling and prostitution to fund education and other public services. He was liberal enough to sign the Petition of Fifty, an anti-government document, and was nominated as an alternative president by Students during a protest. Yet authoritarian enough to forcibly clear out slums, ban *becaks* (cycle rickshaws), and outlaw street peddlers.
 
