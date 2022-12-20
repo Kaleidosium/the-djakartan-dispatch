@@ -1,5 +1,5 @@
 ---
-title:  'The Governor of Jakarta: The Legacy of Ali Sadikin'
+title:  'The Governor of Jakarta - The Legacy of Ali Sadikin'
 date:  '2022-11-14'
 tags:  [post, biography, history]
 description: And his radically pragmatic attitude to improving Jakarta
