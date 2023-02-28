@@ -1,15 +1,15 @@
 ---
-title:  'The Governor of Jakarta - The Legacy of Ali Sadikin'
+title:  'The Governor of Jakarta: The Legacy of Ali Sadikin'
 date:  '2022-11-14'
 tags:  [post, biography, history]
 description: And his radically pragmatic attitude to improving Jakarta
-permalink:  posts/{{ title | slug }}/index.html
+permalink:  posts/{{ 'The Legacy of Ali Sadikin' | slug }}/index.html
 ---
 
 > Jakarta must be free from aversion and become a common city for the rich and poor regardless of race and ethnicity.
 > \- Ali Sadikin
 
-![Plotted image of Ali Sadikin](https://i.imgur.com/vIuFL3e.png)
+![Plotted image of Ali Sadikin](../images/posts/ali-sadikin.png)
 
 The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.
 
