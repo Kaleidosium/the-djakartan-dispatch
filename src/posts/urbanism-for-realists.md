@@ -44,7 +44,7 @@ I feel like from the example of Amsterdam, Urbanist campaigners should focus on 
 
 ## Big-Tent Coalition
 
-The sister movement of the Urbanists is the YIMBY movement, and I’d say Urbanists have a lot to learn from them. One notable thing is they are Big-Tent movements with a defined focus. They transcend ideology, you’ll find socialists, liberals, libertarians, conservatives, etc in one room [6]. The urbanist movement, on the other hand, seems more slanted and less of a big-tent which risks of it being the centre of the culture war (Yes I am aware that it partially already is [7], but it’s not in the spotlight unlike, sadly, Transgender Rights).
+The sister movement of the Urbanists is the YIMBY movement, and I’d say Urbanists have a lot to learn from them. One notable thing is they are a Big Tent with a defined, narrow focus. They transcend ideology, you’ll find socialists, liberals, libertarians, conservatives, etc. in the same room [6]. The urbanist movement, on the other hand, seems more slanted and less of a big-tent which risks of it being the centre of the culture war (Yes I am aware that it partially already is [7], but it’s not in the spotlight unlike, sadly, Transgender Rights).
 
 In his book _Of Boys and Men_, Richard V. Reeves writes how cultural warfare and wedge issues lead to pointless bickering and failure to address real issues [8]. I fear that may happen to Urbanism.
 
