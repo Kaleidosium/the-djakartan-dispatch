@@ -9,7 +9,7 @@ permalink:  posts/{{ 'The Legacy of Ali Sadikin' | slug }}/index.html
 > Jakarta must be free from aversion and become a common city for the rich and poor regardless of race and ethnicity.
 > \- Ali Sadikin
 
-![Plotted image of Ali Sadikin](../images/posts/ali-sadikin.png)
+![Plotted image of Ali Sadikin](https://dispatch.jakarta.dj/images/posts/ali-sadikin.png)
 
 The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.
 
