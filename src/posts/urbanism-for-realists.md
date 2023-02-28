@@ -8,7 +8,7 @@ permalink: posts/{{ title | slug }}/index.html
 
 > "Amsterdam wasn't built in a day." - David Hamilton
 
-Anyone who has spent the last three years online, knows about the amazing rise in Urbanism content online. From the top dogs NotJustBikes and Adam Something to more obscure content creators like [Oh The Urbanity!](https://www.youtube.com/@OhTheUrbanity) and [Paige Saunders](https://www.youtube.com/@PaigeMTL). This is all good, I'm glad to see more advocacy for people-centric Urbanism online. However, I feel like a dark undertone had taken over some Urbanist spaces, that being the "Urban Idealists".
+Anyone who has spent the last three years online, knows about the amazing rise in Urbanism content online. From the top dogs Not Just Bikes and Adam Something to more obscure content creators like [Oh The Urbanity!](https://www.youtube.com/@OhTheUrbanity) and [Paige Saunders](https://www.youtube.com/@PaigeMTL). This is all good, I'm glad to see more advocacy for people-centric Urbanism online. However, I feel like a dark undertone had taken over some Urbanist spaces, that being the "Urban Idealists".
 
 The Urban Idealist believes that their silver bullet ideas would transform cities into Utopia, regardless of the pre-existing socioeconomic conditions. To them, we can easily disregard a city’s culture, transport methods, climate, geography. All cities can be exactly like Amsterdam or Barcelona. While it is true that some of the NIMBY “complaints” raise these points, dismissing them outright is not a good response.
 
