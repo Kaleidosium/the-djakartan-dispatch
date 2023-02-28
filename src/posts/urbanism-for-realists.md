@@ -38,7 +38,7 @@ One interesting example is Rio de Janeiro. People used to not care about drink-d
 
 ## Hit close to home
 
-Amsterdam, as it is now, was not built in a day. It was being redesigned for the car when they got cheap in the 60s, until the 70s, when traffic deaths were as high as 9 people dying each day. People started protesting to demand better cycling policies, the most notable of this was the _Stop_ de _Kindermoord_(EN: Stop Murdering Children) Movement, policymakers were moved, and notable experiments to improve cycling safety were done. Those experiments eventually became the standard-bearer for cycle lanes in the Netherlands [5].
+Amsterdam, as it is now, was not built in a day. It was being redesigned for the car when they got cheap in the 60s, until the 70s, when traffic deaths were as high as 9 people dying each day. People started protesting to demand better cycling policies, the most notable of this was the *Stop de Kindermoord* (EN: Stop the Children Slaughter) Movement, policymakers were moved, and notable experiments to improve cycling safety were done. Those experiments eventually became the standard-bearer for cycle lanes in the Netherlands [5].
 
 I feel like from the example of Amsterdam, Urbanist campaigners should focus on sending messages that resonate with the local community rather than more detached concepts. “Solving Climate Change” is nice, but “Make Kids Safe in our Area” is better.
 
