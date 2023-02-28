@@ -16,11 +16,11 @@ The Urban Idealist believes that their silver bullet ideas would transform citie
 
 What works in city 𝑥 may not work in 𝑦. Ignoring the existing city design, both in its infrastructure and culture, may result in ineffective reforms and redesigns happening. Take my home city of Jakarta. Like American cities, we have Cars and Stroads which were built from bulldozing old buildings and Tram Infrastructure, but unlike most American cities. We have the Angkot or Microbus that lower income Jakartans take. In fact, it’s so successful that a version of Angkots (Called Mikrotrans) are officially part of Jakarta’s official system nowadays! [1]
 
-![Image of a Jak Lingko Angkot](https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/angkot.png)
+![Image of a Jak Lingko Angkot](https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/angkot.jpeg)
 
 But now time to turn into what we do worse than US Cities, Jakarta has Mopeds, a lot of Mopeds. And the riders of those mopeds are the craziest people on the road! They not only flagrantly ignore stop lights when the opportunity arises, but they’ll ride on the separated Bike Lane or even the god-damn Pavement! [2]
 
-![Image of Mopeds on a Pavement disturbing pedestrians](https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/moped-on-pavement.png)
+![Image of Mopeds on a Pavement disturbing pedestrians](https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/mopeds-on-pavement.jpg)
 
 Clearly, this means that regular Dutch urban policies will not necessarily work, and if we were to import them, we will have to figure out how to adapt them to local conditions. Urbanists shouldn't advocate mass replanning of everything immediately, but rather go through it step by step to minimize backlash. And tune city planning policies to how people react to those changes in urban design. Similar to the RCTs being used in Development Economics [3].
 
