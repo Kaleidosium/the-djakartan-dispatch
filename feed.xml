@@ -25,7 +25,7 @@
 <p>Jakarta o' Jakarta, how I love to hate you.</p>
 </blockquote>
 <h2>Salam Kenal!</h2>
-<p><img src="../images/posts/bundaran-hi.png" alt="Image of Jakarta's Bundaran HI, Monas"></p>
+<p><img src="https://dispatch.jakarta.dj/images/posts/bundaran-hi.png" alt="Image of Jakarta's Bundaran HI, Monas"></p>
 <p>Hello, my name is Dania Rifki, I'm a native of Jakarta, Indonesia, and this is where I will put all my writings about Jakarta on. <a href="https://youtu.be/fIZ9c585kf4">You may remember me from that one video about Jakarta's Public Transportation</a>, this website acts as a spiritual successor to that video. I was originally going to continue <em>Developing Jakarta</em>, but it had a few hurdles.</p>
 <p>First, I don't have much time nor money to produce a complete polished video like <em>Developing Jakarta</em> often. I was lucky that I was able to make it at all, but it just wasn't really sustainable if I do more of it. Plus, Text allows me to publish faster, make corrections easier and to reword sections if I saw fit.</p>
 <p>Second, I don't really enjoy being on camera, I'm a transgender woman, and being on camera is really stressful for me; I'm also not that good of a presenter compared to someone like Jay Foreman.</p>
@@ -56,7 +56,7 @@
 <p>Jakarta must be free from aversion and become a common city for the rich and poor regardless of race and ethnicity.
 - Ali Sadikin</p>
 </blockquote>
-<p><img src="../images/posts/ali-sadikin.png" alt="Plotted image of Ali Sadikin"></p>
+<p><img src="https://dispatch.jakarta.dj/images/posts/ali-sadikin.png" alt="Plotted image of Ali Sadikin"></p>
 <p>The following is a brief article about Ali Sadikin, I originally wanted to write more, but I realized that it would be inappropriate for a general overview of him to include.</p>
 <p>Ali Sadikin is one person not commonly known or talked about outside of Indonesia. He was the Fourth Governor of Jakarta during the Suharto Dictatorship, and he's widely known here as probably the most influential governor in the History of Jakarta. Ali had positions in power before becoming Governor, but I want to focus on his governorship, as that's what most people know him for.</p>
 <p>If you want to know one thing about Ali, He was ruthlessly pragmatic. Legalizing gambling and prostitution to fund education and other public services. He was liberal enough to sign the Petition of Fifty, an anti-government document, and was nominated as an alternative president by Students during a protest. Yet authoritarian enough to forcibly clear out slums, ban <em>becaks</em> (cycle rickshaws), and outlaw street peddlers.</p>
@@ -96,14 +96,16 @@
       <id>https://dispatch.jakarta.dj/posts/urbanism-for-realists/</id>
       <content type="html">
         <![CDATA[
-      <h2>&quot;Amsterdam wasn't built in a day.&quot; - David Hamilton</h2>
+      <blockquote>
+<p>&quot;Amsterdam wasn't built in a day.&quot; - David Hamilton</p>
+</blockquote>
 <p>Anyone who has spent the last three years online, knows about the amazing rise in Urbanism content online. From the top dogs NotJustBikes and Adam Something to more obscure content creators like <a href="https://www.youtube.com/@OhTheUrbanity">Oh The Urbanity!</a> and <a href="https://www.youtube.com/@PaigeMTL">Paige Saunders</a>. This is all good, I'm glad to see more advocacy for people-centric Urbanism online. However, I feel like a dark undertone had taken over some Urbanist spaces, that being the &quot;Urban Idealists&quot;.</p>
 <p>The Urban Idealist believes that their silver bullet ideas would transform cities into Utopia, regardless of the pre-existing socioeconomic conditions. To them, we can easily disregard a city’s culture, transport methods, climate, geography. All cities can be exactly like Amsterdam or Barcelona. While it is true that some of the NIMBY “complaints” raise these points, dismissing them outright is not a good response.</p>
 <h2>Be Pragmatic</h2>
 <p>What works in city 𝑥 may not work in 𝑦. Ignoring the existing city design, both in its infrastructure and culture, may result in ineffective reforms and redesigns happening. Take my home city of Jakarta. Like American cities, we have Cars and Stroads which were built from bulldozing old buildings and Tram Infrastructure, but unlike most American cities. We have the Angkot or Microbus that lower income Jakartans take. In fact, it’s so successful that a version of Angkots (Called Mikrotrans) are officially part of Jakarta’s official system nowadays! <a href="https://www.kompas.com/tren/read/2022/02/02/103000765/mengenal-mikrotrans-angkot-ber-ac-di-jakarta-dengan-segudang-fasilitas?page=all">1</a></p>
-<p><img src="../images/posts/urbanism-for-realists/angkot.png" alt="Image of a Jak Lingko Angkot"></p>
+<p><img src="https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/angkot.png" alt="Image of a Jak Lingko Angkot"></p>
 <p>But now time to turn into what we do worse than US Cities, Jakarta has Mopeds, a lot of Mopeds. And the riders of those mopeds are the craziest people on the road! They not only flagrantly ignore stop lights when the opportunity arises, but they’ll ride on the separated Bike Lane or even the god-damn Pavement! <a href="https://www.reuters.com/article/uk-indonesia-pavements/jakartans-walk-the-walk-to-regain-their-pavement-idUSLNE83102120120402">2</a></p>
-<p><img src="../images/posts/urbanism-for-realists/moped-on-pavement.png" alt="Image of Mopeds on a Pavement disturbing pedestrians"></p>
+<p><img src="https://dispatch.jakarta.dj/images/posts/urbanism-for-realists/moped-on-pavement.png" alt="Image of Mopeds on a Pavement disturbing pedestrians"></p>
 <p>Clearly, this means that regular Dutch urban policies will not necessarily work, and if we were to import them, we will have to figure out how to adapt them to local conditions. Urbanists shouldn't advocate mass replanning of everything immediately, but rather go through it step by step to minimize backlash. And tune city planning policies to how people react to those changes in urban design. Similar to the RCTs being used in Development Economics <a href="https://theconversation.com/how-randomised-trials-became-big-in-development-economics-128398">3</a>.</p>
 <p>Which brings me to…</p>
 <h2>Yes, Culture Matters</h2>
